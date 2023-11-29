@@ -1,2 +1,5 @@
-this is a readme.
-我正在学习git的操作，并通过菜鸟教程进行实战练习
+learning_python 
+# 学习爬虫基本知识
+# 学习openaiAPI调用
+
+
